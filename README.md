@@ -6,4 +6,4 @@
 ## Ejecutar pruebas unitarias
 `python -m unittest discover tests`
 ## Compilar Docker
-`docker build -t devco/fast-api-example:latest .`
+`docker build -t flexon1992/test1:latest .`
